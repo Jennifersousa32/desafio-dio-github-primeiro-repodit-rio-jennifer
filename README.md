@@ -1,4 +1,4 @@
-#  Repositírio do desafio de projetos da DIO - Jennifer
+#  Repositório do desafio de projetos da DIO - Jennifer
 Desafio DIO primeiro repositóri  Git/GitHub
 
 ## Links úteis
